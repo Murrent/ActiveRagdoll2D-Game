@@ -5,8 +5,8 @@ A Unity game demo where you play as a stick figure, you can grab the environment
 Gameplay video:
 https://youtu.be/8MfzpuF1ERA
 
-![Jump image](/images/CubeParkourJump.png)
+![Jumping while holding a chair](/images/jump.png)
 
-![Portal image](/images/CubeParkourPortal.png)
+![Destructible objects](/images/destruction.png)
 
-![Ship image](/images/CubeParkourShip.png)
+![Inside ventilation tunnel](/images/tunnel.png)
